@@ -18,6 +18,7 @@
     "uuid": "^3.3.2"
   },
   "devDependencies": {
+    "babel-node": "0.0.1-security",
     "kill-port": "^1.6.1",
     "nodemon": "^1.17.5",
     "prettier": "^2.1.1",
