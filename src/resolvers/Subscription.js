@@ -8,7 +8,7 @@ const Subscription = {
         pubsub.publish('count', {
           count,
         });
-      }, 3000);
+      }, 1000);
 
       return pubsub.asyncIterator('count');
     },
