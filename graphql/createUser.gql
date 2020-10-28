@@ -1,0 +1,8 @@
+mutation {
+  createUser(data: { name: "Amy", email: "amy@gmail.com", age: 23 }) {
+    id
+    posts {
+      id
+    }
+  }
+}

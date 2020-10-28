@@ -1,0 +1,14 @@
+mutation {
+  createComment(data: { text: "hahaha", author: "1", post: "10" }) {
+    id
+    text
+    author {
+      id
+      name
+    }
+    post {
+      id
+      title
+    }
+  }
+}
