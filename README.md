@@ -1,6 +1,6 @@
 # GraphQL-Basics
 
-This GraphQL example shows basic GraphQL operations-queries, mutations, and subscriptions.
+Tdfdfhis GraphQL example shows basic GraphQL operations-queries, mutations, and subscriptions.
 
 ## Working Examples
 
